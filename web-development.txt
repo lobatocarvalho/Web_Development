@@ -1,0 +1,8 @@
+WEB DEVELOPMENT UTILIZA FRAMEWORK DJANGO:
+  1. System Requirements
+    -> Laptop
+    -> Python
+    -> Text Editor
+        - Vs. Code
+        - Sublime Text
+  
